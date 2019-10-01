@@ -1,0 +1,73 @@
+<object-stream>
+  <application.MyHash>
+    <hashTable>
+      <application.MyList>
+        <head>
+          <contents class="application.Book">
+            <title>AAA</title>
+            <author>jinyuchen</author>
+            <year>1997</year>
+            <publisher>jc</publisher>
+            <pages>1000</pages>
+            <genre>fun</genre>
+            <description>good</description>
+            <photo>C:\Users\as083\Desktop\Jinyuchen\CA2photo\th.jpg</photo>
+          </contents>
+          <outer-class reference="../.."/>
+        </head>
+      </application.MyList>
+      <application.MyList/>
+      <application.MyList>
+        <head>
+          <contents class="application.Book">
+            <title>BBB</title>
+            <author>jinyuchen</author>
+            <year>1998</year>
+            <publisher>jc</publisher>
+            <pages>1000</pages>
+            <genre>horror</genre>
+            <description>good</description>
+            <photo>C:\Users\as083\Desktop\Jinyuchen\CA2photo\th.jpg</photo>
+          </contents>
+          <outer-class reference="../.."/>
+        </head>
+      </application.MyList>
+      <application.MyList>
+        <head>
+          <contents class="application.Book">
+            <title>CCC</title>
+            <author>jinyuchen</author>
+            <year>1996</year>
+            <publisher>jc</publisher>
+            <pages>1000</pages>
+            <genre>science</genre>
+            <description>good</description>
+            <photo>C:\Users\as083\Desktop\Jinyuchen\CA2photo\th.jpg</photo>
+          </contents>
+          <outer-class reference="../.."/>
+        </head>
+      </application.MyList>
+      <application.MyList/>
+      <application.MyList/>
+      <application.MyList>
+        <head>
+          <contents class="application.Book">
+            <title>DDD</title>
+            <author>manzi</author>
+            <year>2012</year>
+            <publisher>jc</publisher>
+            <pages>232</pages>
+            <genre>science</genre>
+            <description>good</description>
+            <photo>C:\Users\as083\Desktop\Jinyuchen\CA2photo\th.jpg</photo>
+          </contents>
+          <outer-class reference="../.."/>
+        </head>
+      </application.MyList>
+      <application.MyList/>
+      <application.MyList/>
+      <application.MyList/>
+    </hashTable>
+    <count>7</count>
+  </application.MyHash>
+</object-stream>
